@@ -1,0 +1,1 @@
+/var/www/magento-clean-2.cc/www/vendor/magento/module-login-as-customer-assistance/view/adminhtml/web/js/not-allowed-popup.js

@@ -1,0 +1,1 @@
+/var/www/magento-clean-2.cc/www/vendor/magento/module-release-notification/view/adminhtml/web/js/modal/component.js

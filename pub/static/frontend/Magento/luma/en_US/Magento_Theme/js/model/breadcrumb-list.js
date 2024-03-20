@@ -1,0 +1,1 @@
+/var/www/magento-clean-2.cc/www/vendor/magento/module-theme/view/frontend/web/js/model/breadcrumb-list.js

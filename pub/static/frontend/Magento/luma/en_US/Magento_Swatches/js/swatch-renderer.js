@@ -1,0 +1,1 @@
+/var/www/magento-clean-2.cc/www/vendor/magento/module-swatches/view/base/web/js/swatch-renderer.js

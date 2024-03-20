@@ -1,0 +1,1 @@
+/var/www/magento-clean-2.cc/www/vendor/magento/module-product-video/view/frontend/web/js/load-player.js
