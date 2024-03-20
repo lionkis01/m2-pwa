@@ -1,0 +1,17 @@
+
+##### Adding possibility to fetch custom attribute from pwa side
+type Query {
+    customerCredit: Int @resolver(class: "OpenTag\\GraphQl\\Model\\Resolver\\CustomerCredit") @doc(description: "Return detailed information about a customer account.") @cache(cacheable: false)
+}
+
+type customerCredit {
+    credit: Int
+}
+#####
+
+
+##### Adding possibility to edit custom attribute from pwa side (for example on registration page)
+input CustomerInput {
+    credit: Int @doc(description: "The customer's credit number")
+}
+#####

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<!--    <type name="Magento\Framework\GraphQl\Query\Resolver\Argument\SearchCriteria\Builder">-->
+<!--        <arguments>-->
+<!--            <argument name="additionalFilterGroups" xsi:type="array">-->
+<!--                <item name="customerCredit" xsi:type="object">OpenTag\GraphQl\Model\Resolver\CustomerCredit</item>-->
+<!--            </argument>-->
+<!--        </arguments>-->
+<!--    </type>-->
+</config>
